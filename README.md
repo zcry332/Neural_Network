@@ -65,6 +65,7 @@ Classification Report:
 |accuracy  |||1.00  | 56746|
 |macro avg  | 0.86  | 0.89 |0.88 |56746|
 |weighted avg | 1.00 | 1.00 | 1.00  |56746|
+
 Confusion Matrix:
  |75| 20|
  |---|---|
